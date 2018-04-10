@@ -1,0 +1,5 @@
+C:\Users\juanmanuelgentili\Desktop\UnitTestExample\CalculatorUnitTests\bin\Debug\netcoreapp1.1\CalculatorUnitTests.deps.json
+C:\Users\juanmanuelgentili\Desktop\UnitTestExample\CalculatorUnitTests\bin\Debug\netcoreapp1.1\CalculatorUnitTests.runtimeconfig.json
+C:\Users\juanmanuelgentili\Desktop\UnitTestExample\CalculatorUnitTests\bin\Debug\netcoreapp1.1\CalculatorUnitTests.runtimeconfig.dev.json
+C:\Users\juanmanuelgentili\Desktop\UnitTestExample\CalculatorUnitTests\obj\Debug\netcoreapp1.1\CalculatorUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\juanmanuelgentili\Desktop\UnitTestExample\CalculatorUnitTests\obj\Debug\netcoreapp1.1\CalculatorUnitTests.AssemblyInfo.cs

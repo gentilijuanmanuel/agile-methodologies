@@ -1,0 +1,17 @@
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\obj\Debug\StringCalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\StringCalculatorTest.dll
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\StringCalculatorTest.pdb
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\Clase-03-04.dll
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\Clase-03-04.pdb
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\obj\Debug\StringCalculatorTest.dll
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\StringCalculatorTest\obj\Debug\StringCalculatorTest.pdb

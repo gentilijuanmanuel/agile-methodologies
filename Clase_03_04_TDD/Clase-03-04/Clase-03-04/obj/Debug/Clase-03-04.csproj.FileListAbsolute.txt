@@ -1,0 +1,5 @@
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\Clase-03-04\obj\Debug\Clase-03-04.csprojResolveAssemblyReference.cache
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\Clase-03-04\bin\Debug\Clase-03-04.dll
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\Clase-03-04\bin\Debug\Clase-03-04.pdb
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\Clase-03-04\obj\Debug\Clase-03-04.dll
+C:\Users\juanmanuelgentili\Desktop\Clase-03-04\Clase-03-04\obj\Debug\Clase-03-04.pdb

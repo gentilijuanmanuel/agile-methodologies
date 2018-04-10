@@ -1,0 +1,7 @@
+TDD: Test Driven Development
+
+-Red: primero, el código da error.
+-Green: después, el código funciona.
+-Refactor: hacemos cambios en base a los dos puntos anteriores.
+
+

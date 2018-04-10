@@ -1,0 +1,5 @@
+C:\Users\juanmanuelgentili\Desktop\UnitTestExample\UnitTestExample\bin\Debug\UnitTestExample.dll
+C:\Users\juanmanuelgentili\Desktop\UnitTestExample\UnitTestExample\bin\Debug\UnitTestExample.pdb
+C:\Users\juanmanuelgentili\Desktop\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.csprojResolveAssemblyReference.cache
+C:\Users\juanmanuelgentili\Desktop\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.dll
+C:\Users\juanmanuelgentili\Desktop\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.pdb
