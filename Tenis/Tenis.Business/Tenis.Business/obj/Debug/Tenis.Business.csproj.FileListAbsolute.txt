@@ -1,0 +1,5 @@
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Business\bin\Debug\Tenis.Business.dll
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Business\bin\Debug\Tenis.Business.pdb
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Business\obj\Debug\Tenis.Business.dll
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Business\obj\Debug\Tenis.Business.pdb
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Business\obj\Debug\Tenis.Business.csprojResolveAssemblyReference.cache

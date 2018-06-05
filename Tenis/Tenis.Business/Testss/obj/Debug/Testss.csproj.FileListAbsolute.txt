@@ -1,0 +1,17 @@
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\Testss.dll
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\Testss.pdb
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\Tenis.Business.dll
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\Tenis.Business.pdb
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Proyectos\Tenis\Tenis.Business\Testss\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Proyectos\Tenis\Tenis.Business\Testss\obj\Debug\Testss.csprojResolveAssemblyReference.cache
+C:\Proyectos\Tenis\Tenis.Business\Testss\obj\Debug\Testss.dll
+C:\Proyectos\Tenis\Tenis.Business\Testss\obj\Debug\Testss.pdb

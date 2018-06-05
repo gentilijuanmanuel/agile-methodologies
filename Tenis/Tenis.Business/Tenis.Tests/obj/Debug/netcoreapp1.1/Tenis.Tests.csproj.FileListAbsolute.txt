@@ -1,0 +1,14 @@
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\bin\Debug\netcoreapp1.1\Tenis.Tests.deps.json
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\bin\Debug\netcoreapp1.1\Tenis.Tests.runtimeconfig.json
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\bin\Debug\netcoreapp1.1\Tenis.Tests.runtimeconfig.dev.json
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\obj\Debug\netcoreapp1.1\Tenis.Tests.csprojResolveAssemblyReference.cache
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\obj\Debug\netcoreapp1.1\Tenis.Tests.AssemblyInfo.cs
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\bin\Debug\netcoreapp1.1\Tenis.Tests.dll
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\bin\Debug\netcoreapp1.1\Tenis.Tests.pdb
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\bin\Debug\netcoreapp1.1\Tenis.Business.dll
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\bin\Debug\netcoreapp1.1\Tenis.Business.pdb
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\obj\Debug\netcoreapp1.1\Tenis.Tests.dll
+C:\Proyectos\Tenis\Tenis.Business\Tenis.Tests\obj\Debug\netcoreapp1.1\Tenis.Tests.pdb
