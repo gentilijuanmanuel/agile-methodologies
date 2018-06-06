@@ -8,9 +8,9 @@ namespace Tenis.Business
 {
     public class Match
     {
-        public Match()
+        public Match(string name1, string name2)
         {
-            this.initializeProperties();
+            this.initializeProperties(name1, name2);
         }
         //Properties
 
@@ -18,11 +18,23 @@ namespace Tenis.Business
 
         public int pointsPlayer2 { get; set; }
 
+        public int setsPlayer1 { get; set; }
+
+        public int setsPlayer2 { get; set; }
+
         public int deucePlayer1 { get; set; }
 
         public int deucePlayer2 { get; set; }
 
         public int[,] scoreboard { get; set; }
+
+        public int currentSet { get; set; }
+
+        public bool isFinished { get; set; }
+
+        public Player Player1 { get; set; }
+
+        public Player Player2 { get; set; }
 
         //Methods
 
@@ -87,12 +99,17 @@ namespace Tenis.Business
             } 
         }
 
-        public void initializeProperties()
+        public void initializeProperties(string name1, string name2)
         {
             this.pointsPlayer1 = 0;
             this.pointsPlayer2 = 0;
             this.deucePlayer1 = 0;
             this.deucePlayer2 = 0;
+            this.currentSet = 0;
+            this.Player1 = new Player();
+            this.Player2 = new Player();
+            this.Player1.Name = name1;
+            this.Player2.Name = name2;
 
             this.scoreboard = new int[2, 3];
 
@@ -110,14 +127,15 @@ namespace Tenis.Business
             bool deuce = this.checkDeuce();
             if (player == 1)
             {
-                this.scoreboard[0, 0]++;
+                this.scoreboard[0, this.currentSet]++;
             }
             else
             {
-                this.scoreboard[1, 0]++;
+                this.scoreboard[1, this.currentSet]++;
             }
             this.pointsPlayer1 = 0; 
             this.pointsPlayer2 = 0;
+            this.addSet();
         }
 
         private bool checkDeuce()
@@ -127,6 +145,33 @@ namespace Tenis.Business
                 return true;
             }
             return false;
+        }
+
+        public void addSet()
+        {
+            if ((this.scoreboard[0, this.currentSet] >= 6)
+                && (Math.Abs(this.scoreboard[0, this.currentSet] - this.scoreboard[1, this.currentSet]) >= 2))
+            {
+                this.currentSet++;
+                this.setsPlayer1++;
+                this.validateEndGame();
+            }
+
+            if ((this.scoreboard[1, this.currentSet] >= 6)
+                && (Math.Abs(this.scoreboard[0, this.currentSet] - this.scoreboard[1, this.currentSet]) >= 2))
+            {
+                this.currentSet++;
+                this.setsPlayer2++;
+                this.validateEndGame();
+            }
+        }
+
+        public void validateEndGame()
+        {
+            if(Math.Abs(this.setsPlayer1 - this.setsPlayer2) >= 2)
+            {
+                this.isFinished = true;
+            }
         }
     }
 }

@@ -3,3 +3,9 @@ C:\Proyectos\Tenis\Tenis.Business\Tenis.Business\bin\Debug\Tenis.Business.pdb
 C:\Proyectos\Tenis\Tenis.Business\Tenis.Business\obj\Debug\Tenis.Business.dll
 C:\Proyectos\Tenis\Tenis.Business\Tenis.Business\obj\Debug\Tenis.Business.pdb
 C:\Proyectos\Tenis\Tenis.Business\Tenis.Business\obj\Debug\Tenis.Business.csprojResolveAssemblyReference.cache
+C:\Users\octas\Documents\agiles\agile-methodologies\Tenis\Tenis.Business\Tenis.Business\bin\Debug\Tenis.Business.dll
+C:\Users\octas\Documents\agiles\agile-methodologies\Tenis\Tenis.Business\Tenis.Business\bin\Debug\Tenis.Business.pdb
+C:\Users\octas\Documents\agiles\agile-methodologies\Tenis\Tenis.Business\Tenis.Business\obj\Debug\Tenis.Business.csprojResolveAssemblyReference.cache
+C:\Users\octas\Documents\agiles\agile-methodologies\Tenis\Tenis.Business\Tenis.Business\obj\Debug\Tenis.Business.csproj.CoreCompileInputs.cache
+C:\Users\octas\Documents\agiles\agile-methodologies\Tenis\Tenis.Business\Tenis.Business\obj\Debug\Tenis.Business.dll
+C:\Users\octas\Documents\agiles\agile-methodologies\Tenis\Tenis.Business\Tenis.Business\obj\Debug\Tenis.Business.pdb
